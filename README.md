@@ -6,6 +6,9 @@
 
 Sistem diagnosa cerdas berbasis **Machine Learning** yang dirancang untuk membantu memprediksi risiko diabetes berdasarkan parameter kesehatan klinis. Aplikasi ini dibangun menggunakan algoritma **Random Forest** dan antarmuka interaktif **Streamlit**.
 
+LIVE DEMO
+https://diabetes-diagnostic-system-python-regh54wbuvwkao42ahd2f5.streamlit.app/
+
 ---
 
 ## 🚀 Fitur Utama
