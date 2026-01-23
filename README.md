@@ -37,3 +37,9 @@ python -m venv venv
 source venv/Scripts/activate
 # Aktifkan venv (Mac/Linux)
 source venv/bin/activate
+
+Instal Library yang Dibutuhkan
+pip install -r requirements.txt
+
+Jalankan Aplikasi
+streamlit run app.py
