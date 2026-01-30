@@ -106,16 +106,6 @@ Diabetes-Diagnostic-System-Python-streamlit-/
 ├── app.py                  # Main application file
 ├── requirements.txt        # Dependencies list
 ├── README.md              # Documentation (this file)
-├── model/                 # Trained ML models
-│   └── diabetes_model.pkl
-├── data/                  # Dataset and data processing
-│   └── diabetes_dataset.csv
-├── utils/                 # Helper functions
-│   └── preprocessing.py
-└── assets/                # Images and icons
-    └── logo.png
-```
-
 ---
 
 ## 🧪 Parameter Input  
